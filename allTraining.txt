@@ -1,0 +1,20 @@
+Fied
+Monday;0;front squat;0;0;yea;14; Sprints;4;4; ;6;hang clean;4;4; ;3;SL calf raise;3;3; ;4;deadlift;4;4;ye
+Tuesday;13;RDL 2 sec pause;4;4;SLOW @ 185 pounds;14; Sprints;4;4; ;6;hang clean;4;4; ;3;SL calf raise;3;3; ;4;deadlift;4;4; 
+Wednesday;1;back squat;4;4;yea
+Thursday;13;RDL 2 sec pause;4;4;SLOW @ 185 pounds;14; Sprints;4;4; ;6;hang clean;4;4; ;3;SL calf raise;3;3; ;4;deadlift;4;4; 
+Friday;13;RDL 2 sec pause;4;4;SLOW @ 185 pounds;14; Sprints;4;4; ;6;hang clean;4;4; ;3;SL calf raise;3;3; ;4;deadlift;4;4; 
+Saturday;13;RDL 2 sec pause;4;4;SLOW @ 185 pounds;14; Sprints;4;4; ;6;hang clean;4;4; ;3;SL calf raise;3;3; ;4;deadlift;4;4; 
+Sunday;13;RDL 2 sec pause;4;4;SLOW @ 185 pounds;14; Sprints;4;4; ;6;hang clean;4;4; ;3;SL calf raise;3;3; ;4;deadlift;4;4; 
+Matea
+Monday;13;RDL 2 sec pause;4;4;SLOW @ 185 pounds;14; Sprints;4;4; ;6;hang clean;4;4; ;3;SL calf raise;3;3; ;4;deadlift;4;4; 
+Tuesday;13;RDL 2 sec pause;4;4;SLOW @ 185 pounds;14; Sprints;4;4; ;6;hang clean;4;4; ;3;SL calf raise;3;3; ;4;deadlift;4;4; 
+Wednesday;0;front squat;0;0;yea
+Thursday;0;front squat;0;0;yea;1;back squat;4;4;yea;2;calf raise;4;4; ;14; Sprints;4;4; ;1;back squat;4;4;yea;7;leaps;3;3; ;9;explosive calf raises;3;10; ;4;deadlift;4;4; ;5;Power clean;3;3; ;11; jump rope;1;100; ;9;explosive calf raises;3;10; ;1;back squat;4;4;yea
+Friday;
+Saturday;0;front squat;0;0;yea;1;back squat;4;4;yea;2;calf raise;4;4; ;14; Sprints;4;4; ;4;deadlift;4;4; ;7;leaps;3;3; ;9;explosive calf raises;3;10; ;4;deadlift;4;4; ;5;Power clean;3;3; ;11; jump rope;1;100; ;9;explosive calf raises;3;10; ;7;leaps;3;3; 
+Sunday;0;front squat;0;0;yea;1;back squat;4;4;yea;2;calf raise;4;4; ;14; Sprints;4;4; ;4;deadlift;4;4; ;7;leaps;3;3; ;9;explosive calf raises;3;10; ;4;deadlift;4;4; ;5;Power clean;3;3; ;11; jump rope;1;100; ;9;explosive calf raises;3;10; ;7;leaps;3;3; 
+vincent
+Monday;13;RDL 2 sec pause;4;4;SLOW @ 185 pounds;14; Sprints;4;4; ;6;hang clean;4;4; ;3;SL calf raise;3;3; ;4;deadlift;4;4; ;0;front squat;0;0;yea
+Evan
+Monday;
